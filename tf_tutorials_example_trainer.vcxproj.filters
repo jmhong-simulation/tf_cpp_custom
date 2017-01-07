@@ -1,0 +1,1986 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\tftest\tf12\tensorflow\tensorflow\cc\tutorials\example_trainer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\arena.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\bitmap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\coding.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\status.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\stringpiece.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\threadpool.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\gif_io.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\crc32c.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\hash.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\histogram.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\block.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\block_builder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\buffered_inputstream.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\compression.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\format.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\inputbuffer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\inputstream_interface.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\iterator.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\path.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\random_inputstream.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\record_reader.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\record_writer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\snappy_inputbuffer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\snappy_outputbuffer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\table.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\table_builder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\two_level_iterator.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\zlib_inputstream.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\zlib_outputbuffer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\jpeg_handle.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\jpeg_mem.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\collection_registry.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\png_io.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\distribution_sampler.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\random.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\simple_philox.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\weighted_picker.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\base64.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\numbers.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\ordered_code.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\proto_text_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\scanner.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\str_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\strcat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\stringprintf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\wav_io.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\cpu_feature_guard.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\cpu_info.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\core\platform\cuda_libdevice_path.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\denormal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\core\platform\env.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\file_system.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\protobuf_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\setround.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\tensor_coding.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\core\platform\tracing.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\core\platform\default\cuda_libdevice_path.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\logging.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\protobuf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\core\platform\default\tracing.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\core\platform\windows\env.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\core\platform\windows\error.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\net.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\port.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\windows_file_system.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_lib.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\core\platform\posix\error.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\loader.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\allocator_retry.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\bfc_allocator.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\build_graph_options.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\constant_folding.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\copy_tensor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\costmodel_manager.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\debugger_state_interface.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\device.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\device_factory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\device_mgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\device_set.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\executor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\function.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\graph_optimizer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\graph_runner.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\local_device.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\memory_types.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\optimization_registry.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\process_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\rendezvous_mgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\session_state.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\shape_refiner.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\simple_graph_execution_state.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\simple_placer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\stats_publisher_interface.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\step_stats_collector.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\sycl_allocator.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\sycl_device.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\sycl_device_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\sycl_device_factory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\threadpool_device.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\threadpool_device_factory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\algorithm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\colors.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\control_flow.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\costmodel.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\edgeset.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\equal_graph_def.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\gradients.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\graph.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\graph_constructor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\graph_def_builder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\graph_partition.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\node_builder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\optimizer_cse.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\quantize_training.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\subgraph.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\tensor_id.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\validate.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_cpu.dir\$(Configuration)\gpu_tracer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\allocator.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\attr_value_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\bfloat16.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\cancellation.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\common_shape_fns.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\device_base.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\fake_input.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\function.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\graph_def_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\kernel_def_builder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\load_library.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\log_memory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\lookup_interface.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\memory_types.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\node_def_builder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\node_def_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\op_def_builder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\op_def_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\op_gen_lib.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\op_kernel.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\op_segment.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\partial_tensor_shape.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\rendezvous.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\resource_mgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\shape_inference.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_reference.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_shape.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_slice.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tracking_allocator.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\types.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\unique_tensor_references.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\versions.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\bcast.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\command_line_flags.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\ctc_loss_calculator.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\device_name_utils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\env_var.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\events_writer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\example_proto_fast_parsing.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\example_proto_helper.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\guarded_philox_random.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\memmapped_file_system.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\memmapped_file_system_writer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\mirror_pad_mode.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\padding.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\port.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\reporter.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\saved_tensor_slice_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\group_iterator.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\stat_summarizer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\strided_slice_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\naming.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_bundle.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_format.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_slice_reader.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_slice_reader_cache.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_slice_set.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_slice_writer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\use_cudnn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\version_info.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\work_sharder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\session.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\session_factory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\session_options.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\example.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\feature.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\allocation_description.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\attr_value.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\cost_graph.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\device_attributes.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\function.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\graph.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\kernel_def.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\log_memory.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\node_def.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\op_def.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\resource_handle.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\step_stats.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\summary.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_description.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_shape.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_slice.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\types.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\versions.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\error_codes.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\config.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\debug.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\tensor_bundle.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\saver.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\memmapped_file_system.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_framework.dir\$(Configuration)\saved_tensor_slice.pb_text.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\adjust_contrast_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\adjust_hue_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\aggregate_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\argmax_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\as_string_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\attention_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\avgpooling_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\barrier_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\base64_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\batch_matmul_op_complex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\batch_matmul_op_real.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\batch_norm_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\batchtospace_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\bcast_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\betainc_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\bias_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\bitcast_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\candidate_sampler_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_bfloat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_bool.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_complex128.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_complex64.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_double.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_float.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_half.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_int16.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_int32.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_int64.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_int8.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_uint16.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cast_op_impl_uint8.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\check_numerics_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cholesky_grad.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cholesky_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\colorspace_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\concat_lib_cpu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\concat_lib_gpu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\concat_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conditional_accumulator_base.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conditional_accumulator_base_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conditional_accumulator_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\constant_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\control_flow_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conv_grad_filter_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conv_grad_input_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conv_grad_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conv_grad_ops_3d.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conv_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conv_ops_3d.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conv_ops_fused.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\conv_ops_using_gemm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\count_up_to_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\crop_and_resize_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cross_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\ctc_decoder_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\ctc_loss_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cudnn_pooling_gpu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_abs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_acos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_add_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_add_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_asin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_atan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_ceil.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_complex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_conj.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_cos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_digamma.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_div.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_equal_to_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_equal_to_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_erf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_erfc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_exp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_expm1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_floor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_floor_div.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_floor_mod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_greater.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_greater_equal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_igammas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_imag.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_isfinite.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_isinf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_isnan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_less.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_less_equal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_lgamma.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_log.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_log1p.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_logical_and.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_logical_not.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_logical_or.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_maximum.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_minimum.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_mod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_mul_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_mul_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_neg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_not_equal_to_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_not_equal_to_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_pow.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_real.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_reciprocal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_rint.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_round.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_rsqrt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_select.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_sigmoid.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_sign.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_sin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_sqrt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_square.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_squared_difference.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_sub.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_tan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_tanh.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_op_zeta.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\cwise_ops_common.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\decode_csv_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\decode_gif_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\decode_jpeg_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\decode_png_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\decode_raw_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\deep_conv2d.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\dense_update_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\depthtospace_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\depthwise_conv_grad_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\depthwise_conv_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\determinant_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\diag_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\dilation_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\draw_bounding_box_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\dynamic_partition_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\dynamic_stitch_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\edit_distance_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\encode_jpeg_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\encode_png_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\example_parsing_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\extract_image_patches_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fact_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fake_quant_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fft_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fifo_queue.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fifo_queue_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fill_functor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fixed_length_record_reader_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fractional_avg_pool_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fractional_max_pool_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fractional_pool_common.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\function_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\fused_batch_norm_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\gather_functor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\gather_nd_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\gather_nd_op_cpu_impl_0.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\gather_nd_op_cpu_impl_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\gather_nd_op_cpu_impl_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\gather_nd_op_cpu_impl_3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\gather_nd_op_cpu_impl_4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\gather_nd_op_cpu_impl_5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\gather_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\graph_transferer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\hexagon_control_wrapper.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\hexagon_ops_definitions.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\i_graph_transfer_ops_definitions.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\identity_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\identity_reader_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\immutable_constant_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\in_topk_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\initializable_lookup_table.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\l2loss_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\linalg_ops_common.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\listdiff_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\logging_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\lookup_table_init_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\lookup_table_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\lookup_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\lrn_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\matching_files_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\matmul_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\matrix_band_part_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\matrix_diag_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\matrix_inverse_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\matrix_set_diag_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\matrix_solve_ls_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\matrix_solve_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\matrix_triangular_solve_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\maxpooling_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\mirror_pad_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\mirror_pad_op_cpu_impl_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\mirror_pad_op_cpu_impl_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\mirror_pad_op_cpu_impl_3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\mirror_pad_op_cpu_impl_4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\mirror_pad_op_cpu_impl_5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\multinomial_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\no_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\non_max_suppression_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\one_hot_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\ops_util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\pack_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\pad_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\padding_fifo_queue.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\padding_fifo_queue_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\parameterized_truncated_normal_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\parse_tensor_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\pooling_ops_3d.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\pooling_ops_common.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\priority_queue.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\priority_queue_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\qr_op_complex128.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\qr_op_complex64.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\qr_op_double.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\qr_op_float.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\queue_base.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\queue_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\random_crop_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\random_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\random_shuffle_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\random_shuffle_queue_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\range_sampler.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reader_base.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reader_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reduce_join_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reduction_ops_all.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reduction_ops_any.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reduction_ops_common.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reduction_ops_max.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reduction_ops_mean.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reduction_ops_min.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reduction_ops_prod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reduction_ops_sum.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\relu_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reshape_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\resize_area_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\resize_bicubic_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\resize_bilinear_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\resize_nearest_neighbor_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\resource_variable_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\restore_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reverse_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reverse_sequence_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sample_distorted_bounding_box_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\save_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\save_restore_tensor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\save_restore_v2_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scan_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_functor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_nd_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_nd_op_cpu_impl_0.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_nd_op_cpu_impl_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_nd_op_cpu_impl_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_nd_op_cpu_impl_3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_nd_op_cpu_impl_4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_nd_op_cpu_impl_5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sdca_internal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sdca_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\segment_reduction_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\self_adjoint_eig_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\self_adjoint_eig_v2_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sendrecv_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sequence_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\serialize_sparse_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\session_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\set_kernels.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\shape_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\slice_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\slice_op_cpu_impl_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\slice_op_cpu_impl_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\slice_op_cpu_impl_3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\slice_op_cpu_impl_4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\slice_op_cpu_impl_5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\slice_op_cpu_impl_6.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\softmax_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\softplus_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\softsign_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\spacetobatch_functor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\spacetobatch_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\spacetodepth_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_add_grad_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_add_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_concat_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_conditional_accumulator_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_dense_binary_op_shared.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_matmul_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_reduce_sum_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_reorder_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_reshape_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_softmax_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_sparse_binary_op_shared.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_split_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_tensor_dense_add_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_tensor_dense_matmul_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_tensors_map_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_to_dense_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_xent_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\split_lib_cpu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\split_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\split_v_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\stack_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\strided_slice_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\strided_slice_op_define_grad.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\strided_slice_op_inst_0.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\strided_slice_op_inst_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\strided_slice_op_inst_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\strided_slice_op_inst_3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\strided_slice_op_inst_4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\strided_slice_op_inst_5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\strided_slice_op_inst_6.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\string_join_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\string_split_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\string_to_hash_bucket_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\string_to_number_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\substr_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\summary_audio_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\summary_image_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\summary_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\summary_tensor_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\svd_op_complex128.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\svd_op_complex64.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\svd_op_double.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\svd_op_float.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tensor_array.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tensor_array_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\text_line_reader_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tf_record_reader_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tile_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tile_ops_cpu_impl_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tile_ops_cpu_impl_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tile_ops_cpu_impl_3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tile_ops_cpu_impl_4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tile_ops_cpu_impl_5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tile_ops_cpu_impl_6.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\topk_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\training_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\transpose_functor_cpu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\transpose_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\unique_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\unpack_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\variable_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\where_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\whole_file_read_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\word2vec_kernels.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\xent_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\xsmm_conv2d.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\contrib\factorization\kernels\clustering_ops.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\wals_solver_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\contrib\factorization\ops\clustering_ops.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\factorization_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\bucketization_kernel.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_feature_cross_kernel.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\bucketization_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sparse_feature_cross_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\blas_gemm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\contrib\rnn\kernels\gru_ops.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\contrib\rnn\kernels\lstm_ops.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\contrib\rnn\ops\gru_ops.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\D_\tftest\tf12\tensorflow\tensorflow\contrib\rnn\ops\lstm_ops.cc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\best_splits_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\count_extremely_random_stats_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\finished_nodes_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\grow_tree_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\sample_inputs_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\scatter_add_ndim_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\topn_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tree_predictions_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\tree_utils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\update_fertile_slots_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\reinterpret_string_to_float_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\hard_routing_function_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\k_feature_gradient_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\k_feature_routing_function_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\routing_function_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\routing_gradient_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\stochastic_hard_routing_function_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\stochastic_hard_routing_gradient_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\unpack_path_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_kernels.dir\$(Configuration)\utils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_framework.dir\$(Configuration)\ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_framework.dir\$(Configuration)\scope.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\array_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\candidate_sampling_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\control_flow_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\ctc_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\data_flow_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\functional_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\image_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\io_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\linalg_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\logging_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\math_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\nn_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\no_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\parsing_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\random_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\resource_variable_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\script_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\sdca_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\set_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\sendrecv_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\sparse_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\state_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\string_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\training_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\user_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_cc_ops.dir\$(Configuration)\const_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\array_grad.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\array_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\candidate_sampling_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\op_compatibility_lib.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\control_flow_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\ctc_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\data_flow_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\function_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\functional_grad.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\functional_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\image_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\io_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\linalg_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\logging_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\math_grad.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\math_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\nn_grad.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\nn_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\no_op.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\parsing_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\random_grad.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\random_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\resource_variable_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\script_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\sdca_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\sendrecv_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\set_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\sparse_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\state_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\string_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\training_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\word2vec_ops.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_ops.dir\$(Configuration)\fact.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\tftest\tf12\tensorflow\tensorflow\contrib\cmake\build\tf_core_direct_session.dir\$(Configuration)\direct_session.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BA6DFE1C-8F81-3DDB-AFEB-6E35303966EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{E1C11028-5374-3EE5-A9D8-EB80D24625BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{9A687EEB-B9E6-352E-A765-177586574ED0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
